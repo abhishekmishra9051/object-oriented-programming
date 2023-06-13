@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3989cf5-ae3a-4909-bbe0-5759e1f57cc3" name="Changes" comment="Student Class Created.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/createClasses/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/createClasses/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/createClasses/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a3989cf5-ae3a-4909-bbe0-5759e1f57cc3" name="Changes" comment="more Class Created.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/createClasses/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/createClasses/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/createClasses/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686684938675</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="more Class Created.">
+      <created>1686687490540</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1686687490540</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,6 +128,7 @@
     <MESSAGE value="First commit" />
     <MESSAGE value="README.md file updated." />
     <MESSAGE value="Student Class Created." />
-    <option name="LAST_COMMIT_MESSAGE" value="Student Class Created." />
+    <MESSAGE value="more Class Created." />
+    <option name="LAST_COMMIT_MESSAGE" value="more Class Created." />
   </component>
 </project>

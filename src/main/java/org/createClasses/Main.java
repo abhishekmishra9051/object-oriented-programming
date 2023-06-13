@@ -132,5 +132,17 @@ public class Main {
         car.setColor("Blue");
         System.out.println("Updated Color: " + car.getColor());
 
+        //TV
+        TV tv = new TV("Samsung", 55);
+
+        System.out.println("Brand: " + tv.getBrand());
+        System.out.println("Size: " + tv.getSize());
+        System.out.println("Is On: " + tv.isOn());
+
+        tv.turnOn();
+        tv.changeChannel(5);
+        tv.adjustVolume(10);
+
+        tv.turnOff();
     }
 }

@@ -117,6 +117,20 @@ public class Main {
         System.out.println("Updated Area: " + rectangle.getArea());
         System.out.println("Updated Perimeter: " + rectangle.getPerimeter());
 
+        //Car
+        Car car = new Car("Tata", "Tiago", 2022, "Red");
+
+        System.out.println("Make: " + car.getMake());
+        System.out.println("Model: " + car.getModel());
+        System.out.println("Year: " + car.getYear());
+        System.out.println("Color: " + car.getColor());
+
+        car.start();
+        car.accelerate();
+        car.brake();
+
+        car.setColor("Blue");
+        System.out.println("Updated Color: " + car.getColor());
 
     }
 }

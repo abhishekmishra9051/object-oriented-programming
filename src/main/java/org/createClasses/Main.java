@@ -71,5 +71,52 @@ public class Main {
         student.setMajor("Electrical Engineering");
 
         student.displayStudentInfo();
+
+        // Circle
+        Circle circle = new Circle(5.0);
+
+        System.out.println("Radius: " + circle.getRadius());
+        System.out.println("Area: " + circle.getArea());
+        System.out.println("Circumference: " + circle.getCircumference());
+
+        circle.setRadius(7.5);
+
+        System.out.println("Updated Radius: " + circle.getRadius());
+        System.out.println("Updated Area: " + circle.getArea());
+        System.out.println("Updated Circumference: " + circle.getCircumference());
+
+        //Cylinder
+        Cylinder cylinder = new Cylinder(5.0, 10.0);
+
+        System.out.println("Radius: " + cylinder.getRadius());
+        System.out.println("Height: " + cylinder.getHeight());
+        System.out.println("Volume: " + cylinder.getVolume());
+        System.out.println("Surface Area: " + cylinder.getSurfaceArea());
+
+        cylinder.setRadius(7.5);
+        cylinder.setHeight(12.0);
+
+        System.out.println("Updated Radius: " + cylinder.getRadius());
+        System.out.println("Updated Height: " + cylinder.getHeight());
+        System.out.println("Updated Volume: " + cylinder.getVolume());
+        System.out.println("Updated Surface Area: " + cylinder.getSurfaceArea());
+
+        // Rectangle
+        Rectangle rectangle = new Rectangle(5.0, 10.0);
+
+        System.out.println("Length: " + rectangle.getLength());
+        System.out.println("Width: " + rectangle.getWidth());
+        System.out.println("Area: " + rectangle.getArea());
+        System.out.println("Perimeter: " + rectangle.getPerimeter());
+
+        rectangle.setLength(7.5);
+        rectangle.setWidth(12.0);
+
+        System.out.println("Updated Length: " + rectangle.getLength());
+        System.out.println("Updated Width: " + rectangle.getWidth());
+        System.out.println("Updated Area: " + rectangle.getArea());
+        System.out.println("Updated Perimeter: " + rectangle.getPerimeter());
+
+
     }
 }

@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3989cf5-ae3a-4909-bbe0-5759e1f57cc3" name="Changes" comment="README.md file updated.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/createClasses/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/createClasses/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/createClass/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/createClasses/Account.java" afterDir="false" />
+    <list default="true" id="a3989cf5-ae3a-4909-bbe0-5759e1f57cc3" name="Changes" comment="Student Class Created.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/createClasses/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/createClasses/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/createClasses/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/createClasses/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/createClasses/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686678216710</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Student Class Created.">
+      <created>1686684938675</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1686684938675</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,6 +123,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="README.md file updated." />
-    <option name="LAST_COMMIT_MESSAGE" value="README.md file updated." />
+    <MESSAGE value="Student Class Created." />
+    <option name="LAST_COMMIT_MESSAGE" value="Student Class Created." />
   </component>
 </project>

@@ -1,4 +1,4 @@
-package org.example.createClass;
+package org.createClasses;
 
 public class Account {
     private String accountNumber;

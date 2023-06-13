@@ -1,6 +1,6 @@
-package org.example;
+package org.createClasses;
 
-import org.example.createClass.Account;
+import org.createClasses.Account;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -8,6 +8,8 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+
+        // Account
         List<Account> accountList = new ArrayList<>();
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the number of accounts to create: ");
@@ -52,5 +54,22 @@ public class Main {
 //        double balance = account.getBalance();
 //        System.out.println("Current Balance: Rs " + balance);
 //        account.displayAccountInfo();
+
+        // STUDENT
+        Student student = new Student("Abhishek", 20, "123456", "Computer Science");
+
+        System.out.println("Student Name: " + student.getName());
+        System.out.println("Student Age: " + student.getAge());
+        System.out.println("Student ID: " + student.getStudentId());
+        System.out.println("Student Major: " + student.getMajor());
+
+        student.displayStudentInfo();
+
+        // Modifying student information using setters
+        student.setName("RAJ");
+        student.setAge(21);
+        student.setMajor("Electrical Engineering");
+
+        student.displayStudentInfo();
     }
 }

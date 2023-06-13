@@ -26,4 +26,4 @@ Contributions to this repository are highly appreciated. If you would like to co
 2. Create a new branch: `git checkout -b feature/your-feature-name`
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin feature/your-feature-name`
-5. Submit a pull request
+5. Submit a pull request.

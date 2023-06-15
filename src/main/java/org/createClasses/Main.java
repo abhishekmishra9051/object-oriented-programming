@@ -144,5 +144,21 @@ public class Main {
         tv.adjustVolume(10);
 
         tv.turnOff();
+
+        // NewStudent
+        // Create a student object
+        NewStudent student1 = new NewStudent(1, "Abhishek Mishra", "Science", 80, 75, 90);
+
+        // Get total marks
+        int totalMarks = student1.getTotal();
+        System.out.println("Total Marks: " + totalMarks);
+
+        // Get average marks
+        double averageMarks = student1.getAverage();
+        System.out.println("Average Marks: " + averageMarks);
+
+        // Get grade
+        char grade = student1.getGrade();
+        System.out.println("Grade: " + grade);
     }
 }

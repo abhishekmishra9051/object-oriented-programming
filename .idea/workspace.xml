@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3989cf5-ae3a-4909-bbe0-5759e1f57cc3" name="Changes" comment="more Class Created.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/createClasses/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/createClasses/NewStudent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/createClasses/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/createClasses/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,13 +32,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/HP/IdeaProjects/core-java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/IdeaProjects/core-java&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="org.createClasses.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.createClasses.Main" />

@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3989cf5-ae3a-4909-bbe0-5759e1f57cc3" name="Changes" comment="more Class Created.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritanceOverview/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritanceOverview/superConstrcutor/SuperConstrcutor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/IdeaProjects/core-java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.InharitConstructor">
+  <component name="RunManager" selected="Application.SuperConstrcutor">
     <configuration name="AccountDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.inheritanceOverview.AccountDemo" />
       <module name="object-oriented-programming" />
@@ -58,19 +59,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.inheritanceOverview.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.scoop.Demo1" />
-      <module name="object-oriented-programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.scoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,13 +92,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SuperConstrcutor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.inheritanceOverview.superConstrcutor.SuperConstrcutor" />
+      <module name="object-oriented-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.inheritanceOverview.superConstrcutor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SuperConstrcutor" />
         <item itemvalue="Application.InharitConstructor" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.CellPhoneDemo" />
         <item itemvalue="Application.AccountDemo" />
-        <item itemvalue="Application.Demo1" />
       </list>
     </recent_temporary>
   </component>

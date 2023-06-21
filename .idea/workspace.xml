@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3989cf5-ae3a-4909-bbe0-5759e1f57cc3" name="Changes" comment="more Class Created.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritanceOverview/superConstrcutor/SuperConstrcutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritanceOverview/thissuper/Thissuper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,20 +39,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/IdeaProjects/core-java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SuperConstrcutor">
-    <configuration name="AccountDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.inheritanceOverview.AccountDemo" />
-      <module name="object-oriented-programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.inheritanceOverview.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Thissuper">
     <configuration name="CellPhoneDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.inheritanceOverview.CellPhoneDemo" />
       <module name="object-oriented-programming" />
@@ -105,13 +92,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Thissuper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.inheritanceOverview.thissuper.Thissuper" />
+      <module name="object-oriented-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.inheritanceOverview.thissuper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Thissuper" />
         <item itemvalue="Application.SuperConstrcutor" />
         <item itemvalue="Application.InharitConstructor" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.CellPhoneDemo" />
-        <item itemvalue="Application.AccountDemo" />
       </list>
     </recent_temporary>
   </component>
